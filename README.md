@@ -22,7 +22,7 @@
 ## Baris 5 dan 6 : Ketika kita sudah mendapat nilai phi dan jari-jari selanjutnya kita bisa menghitung luas dan keliling sesuai dengan rumus-nya masing-masing.
 ## Baris 8 dan 9 : Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.
 
-![image3.png](screenshot/flow.png)
+![image3.png](screenshot/ss3.png)
 # Flowchart dari program menghitung luas dan keliling lingkaran
 ![image4.png](screenshot/flow.png)
 
