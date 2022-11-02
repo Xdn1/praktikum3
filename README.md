@@ -28,5 +28,3 @@
 
 # Hasil dari Latihan 3
 ![image5.png](screenshot/ss4.png)
-
-
