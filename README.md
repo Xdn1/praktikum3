@@ -13,7 +13,7 @@
  # 4.konversi nilai variabel 
 ## FYI jika TypeError: %d format: a number is required, not str"
 ## Jika args adalah daftar atau tupel, %s dapat digunakan sebagai pengganti dalam kueri. Jika args adalah dict, %(name)s dapat digunakan sebagai placeholder dalam kueri
-![image2.png](screenshot/ss1.png)
+![image2.png](screenshot/ss2.png)
 
 # Praktikum 3
 # Luas dan Keliling Lingkaran
